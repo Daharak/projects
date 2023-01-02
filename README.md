@@ -1,3 +1,35 @@
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # projects by SERGEI VASILEV , 2022
 
 Данное портфолио создано в рамках обучения на специальность дата аналитика в "Яндекс Практикуме". 
