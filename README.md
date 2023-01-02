@@ -8,7 +8,7 @@
 | 5. Изучение закономерностей, определяющих успешность игр | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры. | Python, Pandas, NumPy, Matplotlib, предобработка данных, исследовательский анализ данных, описательная статистика, проверка статистических гипотез | https://github.com/VASILEV-SERGEI/projects/tree/main/gamedev_research |
 | 6. Исследование данных об инвестиции венчурных фондов в компании-стартапы | Произвести различные выгрузки данных венчурных фондов с помощью SQL. | SQL, PostgreSQL | https://github.com/VASILEV-SERGEI/projects/tree/main/sql_project_requests |
 | 7. Анализ убытков приложения ProcrastinatePRO+ | Вы — маркетинговый аналитик развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс. | Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn | https://github.com/VASILEV-SERGEI/projects/tree/main/business_performance_analysis |
-
+| 8. Работа с БД сайта stackoverflow | Необходимо написать различные типы запросов для получения данных из БД. | SQL, PostgreSQL | https://github.com/VASILEV-SERGEI/projects/tree/main/sql_advance_request |
 
 
 
