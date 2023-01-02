@@ -1,27 +1,8 @@
-| First Header  | Second Header |
+| *Наименования проекта*  | Second Header |
 | ------------- | ------------- |
+| 1. Исследование данных сервиса “Яндекс.Музыка” — 
+|сравнение пользователей двух городов  | Content Cell  |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
