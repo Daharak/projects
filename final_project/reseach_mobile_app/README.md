@@ -1,3 +1,6 @@
+Проект с интерактивными графиками доступен по [ссылке](https://nbviewer.org/github/VASILEV-SERGEI/projects/blob/main/final_project/reseach_mobile_app/final_project_ver_4.2%20%28final%29%20%281%29.ipynb "Нажми для перехода")
+
+
 **Мобильные приложения — Анализ поведения пользователей в мобильном приложении.**
 
 
