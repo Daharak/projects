@@ -1,4 +1,4 @@
-
+Проект с интерактивными графиками доступен по [ссылке](https://nbviewer.org/github/VASILEV-SERGEI/projects/blob/14ac1dc8a41796f0734630bb91f2f96937d4dc54/final_project/ab_test/ab_test_final_project%20%281%29.ipynb "Нажми для перехода")
 
 
 **Цель проекта**
